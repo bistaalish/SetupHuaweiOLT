@@ -1,0 +1,29 @@
+{
+    "host" : "10.11.104.2",
+    "username" : "root",
+    "password" : "admin",
+    "hostname" : "hile-HUAWEI-OLT1",
+    "vlans" : {
+        "PPoE" : {
+            "VLANID" : "100",
+            "name" : "FLINK-PPOE",
+            "profile" : "20"
+        },
+        "MGMT": {
+            "VLANID" : "101",
+            "IP" : "100.126.255.111",
+            "subnet": "255.255.255.0",
+            "name" : "FLINK-MGMT"
+        },
+        "Dedicated" : {
+            "VLANID" : "102",
+            "name" : "FLINK-Dedicated",
+            "profile" : "30"
+        },
+        "SME_private" : {
+            "VLANID" : "103",
+            "name" : "FLINK-SME-EASTERN",
+            "profile" : "40"
+        } 
+    }
+}
