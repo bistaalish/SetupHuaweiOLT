@@ -2,7 +2,7 @@
     "host" : "10.11.104.2",
     "username" : "root",
     "password" : "admin",
-    "hostname" : "hile-HUAWEI-OLT1",
+    "hostname" : "test-HUAWEI-OLT1",
     "vlans" : {
         "PPoE" : {
             "VLANID" : "100",
