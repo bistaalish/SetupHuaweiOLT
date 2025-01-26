@@ -70,7 +70,7 @@ This project provides a Python script to automate the configuration of Optical L
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/olt-automation.git
+https://github.com/bistaalish/SetupHuaweiOLT.git
 cd olt-automation
 ```
 
